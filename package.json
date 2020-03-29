@@ -12,12 +12,10 @@
     "type": "git",
     "url": ""
   },
-  "author": "",
+  "author": "Randy",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
+  
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
